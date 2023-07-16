@@ -17,7 +17,7 @@ url = 'http://www.tableausoftware.com'
 palette_type = 'qualitative'
 
 palette_names = [
-    'Tableau_10_New'
+    'Tableau_10_New',
     'Tableau_10',
     'TableauLight_10',
     'TableauMedium_10',
